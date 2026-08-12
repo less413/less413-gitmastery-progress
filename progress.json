@@ -52,5 +52,14 @@
       "Great work! You have successfully checked in all the actors!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1786519384.363819,
+    "completed_at": 1786519386.867088,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
   }
 ]
