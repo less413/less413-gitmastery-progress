@@ -34,5 +34,14 @@
       "Cmd('git') failed due to: exit code(128)\n  cmdline: git sparse-checkout set --skip-checks undo_init/verify.py\n  stderr: 'fatal: unable to access 'https://github.com/git-mastery/exercises.git/': Failed to connect to github.com port 443 after 21069 ms: Could not connect to server\nfatal: could not fetch 69e352ab8532c3b9fded38394da14f84de0813f4 from promisor remote'"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1786502371.74045,
+    "completed_at": 1786502373.263632,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
   }
 ]
